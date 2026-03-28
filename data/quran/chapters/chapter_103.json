@@ -1,0 +1,48 @@
+{
+  "chapter": 103,
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 6177,
+      "verse_number": 1,
+      "verse_key": "103:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَصْرِ",
+      "text_imlaei": "وَالْعَصْرِ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6178,
+      "verse_number": 2,
+      "verse_key": "103:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "text_imlaei": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6179,
+      "verse_number": 3,
+      "verse_key": "103:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "text_imlaei": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "page_number": 601,
+      "juz_number": 30
+    }
+  ]
+}

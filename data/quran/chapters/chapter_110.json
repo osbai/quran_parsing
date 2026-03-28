@@ -1,0 +1,48 @@
+{
+  "chapter": 110,
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 6214,
+      "verse_number": 1,
+      "verse_key": "110:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "text_imlaei": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6215,
+      "verse_number": 2,
+      "verse_key": "110:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "text_imlaei": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6216,
+      "verse_number": 3,
+      "verse_key": "110:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "text_imlaei": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "page_number": 603,
+      "juz_number": 30
+    }
+  ]
+}

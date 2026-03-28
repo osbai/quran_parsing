@@ -1,0 +1,76 @@
+{
+  "chapter": 105,
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 6189,
+      "verse_number": 1,
+      "verse_key": "105:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "text_imlaei": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6190,
+      "verse_number": 2,
+      "verse_key": "105:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "text_imlaei": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6191,
+      "verse_number": 3,
+      "verse_key": "105:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_imlaei": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6192,
+      "verse_number": 4,
+      "verse_key": "105:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_imlaei": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "page_number": 601,
+      "juz_number": 30
+    },
+    {
+      "id": 6193,
+      "verse_number": 5,
+      "verse_key": "105:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "text_imlaei": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "page_number": 601,
+      "juz_number": 30
+    }
+  ]
+}

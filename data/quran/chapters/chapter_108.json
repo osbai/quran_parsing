@@ -1,0 +1,48 @@
+{
+  "chapter": 108,
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 6205,
+      "verse_number": 1,
+      "verse_key": "108:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "text_imlaei": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "page_number": 602,
+      "juz_number": 30
+    },
+    {
+      "id": 6206,
+      "verse_number": 2,
+      "verse_key": "108:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "text_imlaei": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "page_number": 602,
+      "juz_number": 30
+    },
+    {
+      "id": 6207,
+      "verse_number": 3,
+      "verse_key": "108:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "text_imlaei": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "page_number": 602,
+      "juz_number": 30
+    }
+  ]
+}

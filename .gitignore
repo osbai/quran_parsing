@@ -1,0 +1,4 @@
+# Bible data
+data/bible/
+scripts/fetch_bible_data.py
+bible_data/

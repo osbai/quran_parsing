@@ -1,0 +1,76 @@
+{
+  "chapter": 113,
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 6226,
+      "verse_number": 1,
+      "verse_key": "113:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "text_imlaei": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "page_number": 604,
+      "juz_number": 30
+    },
+    {
+      "id": 6227,
+      "verse_number": 2,
+      "verse_key": "113:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "text_imlaei": "مِن شَرِّ مَا خَلَقَ",
+      "page_number": 604,
+      "juz_number": 30
+    },
+    {
+      "id": 6228,
+      "verse_number": 3,
+      "verse_key": "113:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "text_imlaei": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "page_number": 604,
+      "juz_number": 30
+    },
+    {
+      "id": 6229,
+      "verse_number": 4,
+      "verse_key": "113:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "text_imlaei": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "page_number": 604,
+      "juz_number": 30
+    },
+    {
+      "id": 6230,
+      "verse_number": 5,
+      "verse_key": "113:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "text_imlaei": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "page_number": 604,
+      "juz_number": 30
+    }
+  ]
+}
