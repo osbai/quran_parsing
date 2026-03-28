@@ -1,0 +1,29 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "surah_name_english": "The Dawn",
+  "total_verses": 5,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "verse_number": 1,
+      "text": "SAY: \"I seek refuge with the Sustainer of the rising dawn,"
+    },
+    {
+      "verse_number": 2,
+      "text": "\"from the evil of aught that He has created,"
+    },
+    {
+      "verse_number": 3,
+      "text": "\"and from the evil of the black darkness whenever it descends,"
+    },
+    {
+      "verse_number": 4,
+      "text": "\"and from the evil of all human beings bent on occult endeavours,"
+    },
+    {
+      "verse_number": 5,
+      "text": "\"and from the evil of the envious when he envies.\""
+    }
+  ]
+}

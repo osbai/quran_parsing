@@ -1,0 +1,25 @@
+{
+  "surah_number": 112,
+  "surah_name": "Al-Ikhlaas",
+  "surah_name_english": "Sincerity",
+  "total_verses": 4,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "verse_number": 1,
+      "text": "SAY: \"He is the One God:"
+    },
+    {
+      "verse_number": 2,
+      "text": "\"God the Eternal, the Uncaused Cause of All Being."
+    },
+    {
+      "verse_number": 3,
+      "text": "\"He begets not, and neither is He begotten;"
+    },
+    {
+      "verse_number": 4,
+      "text": "\"and there is nothing that could be compared with Him."
+    }
+  ]
+}

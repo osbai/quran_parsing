@@ -1,0 +1,33 @@
+{
+  "surah_number": 109,
+  "surah_name": "Al-Kaafiroon",
+  "surah_name_english": "The Disbelievers",
+  "total_verses": 6,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "verse_number": 1,
+      "text": "SAY: \"O you who deny the truth!"
+    },
+    {
+      "verse_number": 2,
+      "text": "\"I do not worship that which you worship,"
+    },
+    {
+      "verse_number": 3,
+      "text": "and neither do you worship that which I worship!"
+    },
+    {
+      "verse_number": 4,
+      "text": "\"And I will not worship ~hat which you have [ever] worshipped,"
+    },
+    {
+      "verse_number": 5,
+      "text": "and neither will you [ever] worship that which I worship."
+    },
+    {
+      "verse_number": 6,
+      "text": "Unto you, your moral law, and unto me, mine!\""
+    }
+  ]
+}
